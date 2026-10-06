@@ -41,7 +41,7 @@ English (Intermediate) · Tamil (Native)
 ### 🌟 Extra-Curricular Highlights
 - **Leadership & Student Governance:** Served as a School Prefect across primary and secondary education, demonstrating strong leadership and responsibility.
 - **Language & Communication Excellence:** Active member of the English Union (2024) and participant in the U.S. Embassy-sponsored English ACCESS Micro Scholarship Programme.
-- **Competitive Achievements:** Awarded 1st Place at the National English Day Competition (2023) in both Handwriting and Drama categories.
+- **Competitive Achievements:** Awarded 1st Place at the National English Day Competition (2023) in both Handwriting Print category.
 - **Arts & Creative Expression:** Frequently represented school in regional and national-level competitions encompassing public speaking, creative writing, drama, and essay writing.
 
 ---
