@@ -12,7 +12,7 @@ I am a Computer Science & Engineering undergraduate at the University of Moratuw
 
 ### 🛠️ Tech & Skills
 **Technical**  
-`Python` · Front-end Development · Back-end Development · Machine Learning · Adobe Photoshop
+`Python` · Front-end Development · Back-end Development · Machine Learning 
 
 **Soft Skills**  
 Leadership · Problem Solving · Communication · Creative Thinking · Logical Thinking · Time Management · Continuous Learning
