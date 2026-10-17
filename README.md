@@ -23,11 +23,15 @@ English (Intermediate) · Tamil (Native)
 ---
 
 ### 📂 Featured Projects
-- **[Shared Expense & Bill Splitter CLI](https://github.com/Jegathayini)**  
-  Python command-line application using dynamic data structures and input validation to automate itemized expense calculations, discount distribution, and terminal summary tables for shared group purchases.
 
-- **[Face Recognition Attendance Management System](https://github.com/Jegathayini)**  
-  Python-based face recognition system that supports user registration via facial images, automated face embedding generation, recognition database updates, and real-time attendance marking using webcam-based identification.
+- **[Digital Bell System](https://github.com/Jegathayini/digital_bell_system)**  
+  A web-based school bell automation system developed using HTML, CSS, and JavaScript. Features customizable timetables, automated bell scheduling, morning audio management, school hymn playback, virtual time simulation, and dynamic timetable adjustments when school activities run late.
+
+- **[Shared Expense & Bill Splitter CLI](https://github.com/Jegathayini/bill_splitter_cli)**  
+  A Python command-line application using dynamic data structures and input validation to automate itemized expense calculations, discount distribution, and formatted terminal summary tables for shared group purchases.
+
+- **[Face Recognition Learning](https://github.com/Jegathayini/Face_Recognition_Learning)**  
+  A Python-based computer vision project exploring facial detection and recognition. Includes user registration through facial images, automated face embedding generation, recognition database management, and real-time webcam-based identification for attendance-related applications.
 
 ---
 
