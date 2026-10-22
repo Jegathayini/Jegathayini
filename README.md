@@ -102,7 +102,7 @@ A web-based school bell automation system featuring customizable timetables, aut
 
 A web-based school marks management and academic analysis system featuring structured teacher marks entry, student-wise, subject-wise, and class-wise performance analysis, term comparisons, individual student reports with PDF export, role-based administrator and teacher access, and teacher account management.
 
-[![Repository](https://img.shields.io/badge/View_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini?tab=repositories)
+[![Repository](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini/school_marks_system)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jegathayini.github.io/school_marks_system/)
 
 ---
