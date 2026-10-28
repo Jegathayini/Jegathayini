@@ -85,7 +85,7 @@ I'm a **Computer Science & Engineering undergraduate at the University of Moratu
 
 ## 📂 Featured Projects
 
-### 🔔 [Digital Bell System](https://github.com/Jegathayini/digital_bell_system)
+### 🔔 Digital Bell System
 
 **Technologies:** `HTML` `CSS` `JavaScript`
 
@@ -96,7 +96,7 @@ A web-based school bell automation system featuring customizable timetables, aut
 
 ---
 
-### 📊 [School Marks Analysis System](https://github.com/Jegathayini?tab=repositories)
+### 📊 School Marks Analysis System
 
 **Technologies:** `Python` `Flask` `HTML` `CSS` `JavaScript` `Database`
 
@@ -107,7 +107,7 @@ A web-based school marks management and academic analysis system featuring struc
 
 ---
 
-### 💰 [Shared Expense & Bill Splitter CLI](https://github.com/Jegathayini/bill_splitter_cli)
+### 💰 Shared Expense & Bill Splitter CLI
 
 **Technologies:** `Python`
 
@@ -117,7 +117,7 @@ A Python command-line application using dynamic data structures and input valida
 
 ---
 
-### 🧠 [Face Recognition Learning](https://github.com/Jegathayini/Face_Recognition_Learning)
+### 🧠 Face Recognition Learning
 
 **Technologies:** `Python` `Computer Vision` `Face Recognition`
 
