@@ -1,185 +1,180 @@
 <div align="center">
 
-# Hi, I'm Jegathayini Thiruchchelvam 👋
+<img src="./banner.svg" width="100%" alt="Jegathayini Thiruchchelvam — Computer Science and Engineering Undergraduate" />
 
-### Computer Science & Engineering Undergraduate
-**Faculty of Engineering | University of Moratuwa**
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=Computer+Science+and+Engineering+Undergraduate;Exploring+AI+and+Machine+Learning;Learning+Full-Stack+Development;Building+Practical+Software+Solutions;Always+Learning+and+Improving" alt="Typing introduction" />
+<a href="https://www.linkedin.com/in/jegathayini-thiruchchelvam-47545a399"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thayini11@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Jegathayini"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jegathayini-thiruchchelvam-47545a399)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:thayini11@gmail.com)
-
-</div>
-
----
-
-## 🚀 Developer Snapshot
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-00C896?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/FOCUS-SOFTWARE_DEVELOPMENT-00B8D9?style=for-the-badge&labelColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems;Exploring+AI+%2B+Computer+Vision;Learning+by+building%2C+one+project+at+a+time" alt="Animated introduction" />
 
 </div>
 
-### Turning ideas into practical software solutions.
+## ✦ The person behind the code
 
-I'm a **Computer Science & Engineering undergraduate at the University of Moratuwa**, interested in software engineering, intelligent systems, and applying technology to real-world challenges.
+<table><tr><td width="58%" valign="top">
 
-**Currently building**  
-![Web Apps](https://img.shields.io/badge/Web_Applications-161B22?style=flat-square&logo=googlechrome&logoColor=00D9C0)
-![Python Tools](https://img.shields.io/badge/Python_Projects-161B22?style=flat-square&logo=python&logoColor=00D9C0)
-![Automation](https://img.shields.io/badge/Automation_Tools-161B22?style=flat-square&logo=githubactions&logoColor=00D9C0)
+### 👋 Hello, I'm Jegathayini
 
-**Currently exploring**  
-![AI](https://img.shields.io/badge/Artificial_Intelligence-161B22?style=flat-square&logoColor=00D9C0)
-![ML](https://img.shields.io/badge/Machine_Learning-161B22?style=flat-square&logoColor=00D9C0)
-![Full Stack](https://img.shields.io/badge/Full--Stack_Development-161B22?style=flat-square&logoColor=00D9C0)
-![Algorithms](https://img.shields.io/badge/Algorithms-161B22?style=flat-square&logoColor=00D9C0)
+I'm a **Computer Science & Engineering undergraduate** at the **University of Moratuwa**, interested in software engineering, artificial intelligence, machine learning, computer vision, and full-stack development.
 
-<div align="center">
+I enjoy turning ideas into practical tools, learning through experimentation, and improving what I build.
 
-*Learn continuously • Build purposefully • Improve consistently*
+**My approach:** Learn with curiosity · Build with purpose · Improve consistently.
 
-</div>
+</td><td width="42%" valign="top">
 
----
+### ✨ At a glance
 
-## 🛠️ Tech & Skills
+🎓 **Studying:** Computer Science & Engineering  
+🧠 **Exploring:** AI, ML & Computer Vision  
+🛠️ **Building with:** Python & Web Technologies  
+🌱 **Learning:** Full-Stack Development & Algorithms  
+🤝 **Value:** Teamwork & Problem Solving
 
-### Technical Skills
+</td></tr></table>
 
-<div align="left">
+## ✦ My toolkit
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+<table><tr><td width="50%" valign="top" align="center">
 
-</div>
+**Languages & Web**
 
-**Technical Areas**
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C++, HTML, CSS" />
 
-`Python` · `Front-end Development` · `Back-end Development` · `Machine Learning`
+</td><td width="50%" valign="top" align="center">
 
-**Currently Exploring**
+**Frameworks & Tools**
 
-`Deep Learning` · `Full-Stack Web Development` · `Artificial Intelligence`
+<img src="https://skillicons.dev/icons?i=react,flask,tailwind,nodejs,git,github,vscode,sqlite&theme=dark" alt="React, Flask, Tailwind, Node.js, Git, GitHub, VS Code, SQLite" />
 
-### Soft Skills
+</td></tr></table>
 
-`Leadership` · `Problem Solving` · `Communication` · `Creative Thinking` · `Logical Thinking` · `Time Management` · `Continuous Learning`
+<div align="center"><sub>Some technologies are part of my ongoing learning journey.</sub></div>
 
-### Languages
+## ✦ Selected work
 
-- **Tamil:** Native
-- **English:** Intermediate
+### ◇ Independent projects
 
----
-
-## 📂 Featured Projects
+<table>
+<tr><td width="50%" valign="top">
 
 ### 🔔 Digital Bell System
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+**HTML · CSS · JavaScript**
 
-A web-based school bell automation system featuring customizable timetables, automated bell scheduling, morning audio management, school hymn playback, virtual time simulation, and dynamic timetable adjustments when school activities run late.
+A school bell scheduling tool with morning audio playback, timetable adjustments, hymn prompts, and virtual-time testing.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini/digital_bell_system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jegathayini.github.io/digital_bell_system/)
+[**Repository ↗**](https://github.com/Jegathayini/digital_bell_system) · [**Live Demo ↗**](https://jegathayini.github.io/digital_bell_system/)
 
----
+</td><td width="50%" valign="top">
 
-### 📊 School Marks Analysis System
+### 📊 School Academic Management
 
-**Technologies:** `Python` `Flask` `HTML` `CSS` `JavaScript` `Database`
+**Google Apps Script · Sheets · JavaScript**
 
-A web-based school marks management and academic analysis system featuring structured teacher marks entry, student-wise, subject-wise, and class-wise performance analysis, term comparisons, individual student reports with PDF export, role-based administrator and teacher access, and teacher account management.
+Teacher marks entry, academic analysis dashboards, role-based access, and report exports.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini/school_marks_system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jegathayini.github.io/school_marks_system/)
+[**Repository ↗**](https://github.com/Jegathayini/school_marks_system)
 
----
+</td></tr>
+<tr><td width="50%" valign="top">
 
-### 💰 Shared Expense & Bill Splitter CLI
+### 💰 Shared Expense & Bill Splitter
 
-**Technologies:** `Python`
+**Python**
 
-A Python command-line application using dynamic data structures and input validation to automate itemized expense calculations, discount distribution, and formatted terminal summary tables for shared group purchases.
+A command-line utility for itemized group expenses, discounts, validation, and formatted summaries.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini/bill_splitter_cli)
+[**Repository ↗**](https://github.com/Jegathayini/bill_splitter_cli)
 
----
+</td><td width="50%" valign="top">
 
 ### 🧠 Face Recognition Learning
 
-**Technologies:** `Python` `Computer Vision` `Face Recognition`
+**Python · Computer Vision**
 
-A Python-based computer vision project exploring facial detection and recognition. Includes user registration through facial images, automated face embedding generation, recognition database management, and real-time webcam-based identification for attendance-related applications.
+An exploration of facial image registration, face embeddings, and webcam-based recognition.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegathayini/Face_Recognition_Learning)
+[**Repository ↗**](https://github.com/Jegathayini/Face_Recognition_Learning)
 
----
+</td></tr>
+</table>
 
-## 📊 GitHub Statistics
+### ◇ Collaborative project
+
+<table><tr><td valign="top">
+
+### 🚀 PresenX — Smart Official Presence & Availability Monitoring
+
+**Team HexaNexus · 6 members**  
+`Python` `Flask` `OpenCV` `InsightFace` `Node.js` `Express` `SQLite` `HTML` `CSS` `JavaScript`
+
+A collaborative prototype combining face recognition, presence and availability monitoring, employee management, administrative tools, and public-facing availability information.
+
+**My contributions:** Computer vision functionality for face registration and embedding generation; employee first-time password setup; administrator login interface; integration testing and debugging.
+
+*Built collaboratively by Team HexaNexus.*
+
+</td></tr></table>
+
+## ✦ GitHub pulse
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jegathayini&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jegathayini&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegathayini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegathayini&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jegathayini&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
----
+## ✦ More than code
 
-## 🎓 Education
+<table><tr><td width="50%" valign="top">
+
+### 🎓 Education
 
 **University of Moratuwa**  
-Computer Science & Engineering | 2025 – Present
+Computer Science & Engineering · 2025–Present
 
-**J/ Vembadi Girls' High School**  
-Secondary Education | 2016 – 2024
+**J/Vembadi Girls' High School**  
+Secondary Education · 2016–2024
 
-- Island Rank: **632**
-- **3A Passes** in Physical Science
+**G.C.E. A/L Physical Science:** 3 A passes  
+**Island Rank:** 632
 
----
+</td><td width="50%" valign="top">
 
-## 🌟 Extra-Curricular Highlights
+### 🏆 Highlights
 
-**Leadership & Student Governance**  
-Served as a School Prefect across primary and secondary education, demonstrating strong leadership and responsibility.
+- **1st Place**, National English Day Competition (2023), Handwriting Print category
+- School Prefect in primary and secondary education
+- English Union member (2024)
+- U.S. Embassy-sponsored English ACCESS Micro Scholarship Programme participant
+- Public speaking, creative writing, drama & essay competitions
 
-**Language & Communication Excellence**  
-Active member of the English Union (2024) and participant in the U.S. Embassy-sponsored English ACCESS Micro Scholarship Programme.
+</td></tr></table>
 
-**Competitive Achievements**  
-Awarded 1st Place at the National English Day Competition (2023) in the Handwriting Print category.
-
-**Arts & Creative Expression**  
-Frequently represented school in regional and national-level competitions encompassing public speaking, creative writing, drama, and essay writing.
-
----
-
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** [Jegathayini Thiruchchelvam](https://www.linkedin.com/in/jegathayini-thiruchchelvam-47545a399)
-- 🐙 **GitHub:** [github.com/Jegathayini](https://github.com/Jegathayini)
-- ✉️ **Email:** [thayini11@gmail.com](mailto:thayini11@gmail.com)
-
----
+## ✦ Let's connect
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jegathayini&label=Profile%20Views&color=00D9C0&style=flat-square)
+**Open to learning, collaboration, and building meaningful projects.**
 
-**Code • Learn • Build • Grow**
+<a href="https://www.linkedin.com/in/jegathayini-thiruchchelvam-47545a399"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thayini11@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+**Code · Learn · Build · Grow**
+
+<img src="https://komarev.com/ghpvc/?username=Jegathayini&label=Profile%20views&color=22d3ee&style=flat-square" alt="Profile views" />
 
 </div>
